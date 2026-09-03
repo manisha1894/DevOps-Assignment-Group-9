@@ -76,9 +76,9 @@ Deployment
 ### Group 9
 
 * Manisha
-* Member 2
-* Member 3
-* Member 4
+* komal
+* lochana
+* krishika
 
 ## 🎯 Objective
 
